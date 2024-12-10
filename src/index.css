@@ -1,0 +1,63 @@
+/* (CARD 1 CSS).main{
+  width: 700px;
+  height: 600px;
+  border: 1px solid black;
+  float: left;
+  margin: 20px;
+  
+}
+.title{
+  width: 700px;
+  height: 150px;
+  
+  text-align: center;
+  float: left;
+  h1{
+    margin-top: 30px;
+    color: hotpink;
+    font-size: 60px;
+  }
+}
+.list{
+  width: 350px;
+  height: 150px;
+  float: left;
+  
+}
+.photo{
+  width: 348px;
+  height: 150px;
+  float: left;
+}
+.photo img{
+  width: 100%;
+  height: 100%;
+}
+.colour{
+  width: 350px;
+  height: 150px;
+  background-color: burlywood;
+  float: left;
+}
+.para{
+  width: 350px;
+  height: 150px;
+  background-color: red;
+  float: left;
+}
+.phot{
+  width: 348px;
+  height: 150px;
+   float: left;
+}
+.phot img{
+  width: 100%;
+  height: 100%;
+}
+.colour2{
+  width: 350px;
+  height: 150px;
+  background-color: burlywood;
+  float: left;
+} */
+
